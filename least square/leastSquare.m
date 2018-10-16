@@ -1,0 +1,10 @@
+x = 0.25:0.25:2.5;
+y = [1.284, 1.648, 2.117, 2.718, 3.427, 2.798, 3.534, 4.456, 5.465, 5.894];
+A = [sum(cos(x).^2),sum(sin(x).*cos(x));sum(cos(x).*sin(x)),sum(sin(x).^2)];
+b = [sum(y.*cos(x));sum(y.*sin(x))];
+X = A\b;
+scatter(x,y);
+hold on;
+res = X(1)*cos(x)+X(2)*sin(x);
+plot(x,res);
+fprintf('a=%.15f, b=%.15f, error = %.15f\n', X(1), X(2), sum((y-res).^2));
