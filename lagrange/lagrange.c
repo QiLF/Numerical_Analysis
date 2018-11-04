@@ -1,5 +1,5 @@
 /* HW2
- * PB16000953 祁琳峰
+ * 
  * 2018-9-25
  * RESULT:
    interpolation points: xi=-5+10i/n  where i=1,2...,n
