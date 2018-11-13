@@ -1,3 +1,3 @@
-C:/Users/lf/CLionProjects/lagrange/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lf/CLionProjects/lagrange/cmake-build-debug/CMakeFiles/lagrange.dir
-C:/Users/lf/CLionProjects/lagrange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lf/CLionProjects/Numerical Analysis/lagrange/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lf/CLionProjects/Numerical Analysis/lagrange/cmake-build-debug/CMakeFiles/lagrange.dir
+C:/Users/lf/CLionProjects/Numerical Analysis/lagrange/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-C:\Users\lf\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\lf\CLionProjects\lagrange
+C:\Users\lf\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\lf\CLionProjects\Numerical Analysis\lagrange"
 -- The C compiler identification is GNU 6.3.0
 -- Check for working C compiler: C:/MinGW/bin/gcc.exe
 -- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
@@ -8,4 +8,4 @@ C:\Users\lf\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4505.18\bin\cmak
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/lf/CLionProjects/lagrange/cmake-build-debug
+-- Build files have been written to: C:/Users/lf/CLionProjects/Numerical Analysis/lagrange/cmake-build-debug
