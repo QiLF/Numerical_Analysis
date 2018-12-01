@@ -1,7 +1,7 @@
 /**
  * HW5
  * nonlinear equation f(x) = 1/3 * x^3 - x
- * author: lf
+ * author: qlf
  * res:
     Newton method result:
     input:x0=0.100000000000000  res: root=-0.000000000000000, recursive_num=3,convergenceDegree=3.055519
