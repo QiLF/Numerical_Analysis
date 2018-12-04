@@ -12,3 +12,12 @@
 ![hw4](img/hw4.png)
 **HW5**
 ![hw5](img/hw5.png)
+
+**HW6**
+
+![hw6](img/hw6.png)
+
+**HW7**
+
+![hw7](img/hw7.png)
+
