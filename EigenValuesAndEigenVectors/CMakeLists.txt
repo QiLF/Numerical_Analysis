@@ -3,4 +3,4 @@ project(EigenValuesAndEigenVectors C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(EigenValuesAndEigenVectors main.c)
+add_executable(EigenValuesAndEigenVectors jacobi.c)
